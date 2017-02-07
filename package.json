@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/bahmutov/snap-shot-modules-test#readme",
   "dependencies": {
-    "snap-shot": "^1.11.1"
+    "snap-shot": "2.0.0"
   },
   "devDependencies": {
     "babel-preset-env": "^1.1.8",
