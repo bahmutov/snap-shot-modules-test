@@ -6,7 +6,7 @@ it('2 + 5 should match snap-shot', () => {
   snapshot(result)
 })
 
-it('multiple values', () => {
+it.only('multiple values', () => {
   snapshot('first')
   snapshot('second')
   snapshot('third')
