@@ -1,4 +1,8 @@
-module.exports[`2 + 5 should match snap-shot 1`] = 7
+exports[`multiple values 1`] = "first"
 
-module.exports[`multiple values 3`] = "third"
+exports[`multiple values 2`] = "second"
+
+exports[`multiple values 3`] = "third"
+
+exports[`2 + 5 should match snap-shot 1`] = 7
 
